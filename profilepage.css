@@ -1,5 +1,5 @@
 body{
-  background-color: lightgray
+  background-color: #F7F7F7
 }
 
 .center {
@@ -21,4 +21,5 @@ h1 {
 }
 .card-group {
   text-align: center
+  background-color: #F7F7F7
 }
