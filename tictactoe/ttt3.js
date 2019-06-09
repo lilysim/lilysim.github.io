@@ -36,6 +36,7 @@ function changePlayer (){
       
 //Function - Determine Draw
       function checkDraw() {
+	let draw = true
         for(let i=0; i<9; i++) {
             console.log(boxes[1]);
 
